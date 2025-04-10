@@ -1,0 +1,11 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# Your rule content
+
+- This project is to improve customer experience for Honda's MyGarage platform. I will be identifying a customer experience problem, and propose an AI-powered solution for it. 
+- I will be telling you my thoughts during this process. Please update this discovery documentation every session [Honda_MyGarage_AI_Enhancement_Discovery.md](mdc:Honda_MyGarage_AI_Enhancement_Discovery.md)
+- Please only update the documentation with information that I have provided, or have explicitly asked for. If there is relevant information that should be in the documentation but does not currently exist, please ask me if I believe it should belong in there. Keep the document clear and concise with professional language.
